@@ -2,7 +2,8 @@
 Connect to a SQL database server, create databases, create tables from schemas, ingest data, query powerfully but simply all in Python using sqlalchemy.
 
 # Installation
-## Install a SQL server on your machine. e.g. https://www.sqlshack.com/how-to-install-postgresql-on-windows/
+## Install a SQL server on your machine.
+e.g. https://www.sqlshack.com/how-to-install-postgresql-on-windows/
 ```
 python setup.py develop
 ```
