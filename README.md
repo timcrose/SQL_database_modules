@@ -10,4 +10,4 @@ python setup.py develop
 # Notes
 ## Make a copy and update the configuration text file sql.conf with values for your database.
 ## Make a copy and edit table_schema.py to write the schema for your database tables.
-## See test_make_query.py for example usage.
+## See example_usage.py for example usage.
