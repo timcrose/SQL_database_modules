@@ -4,6 +4,7 @@ Connect to a SQL database server, create databases, create tables from schemas, 
 # Installation
 ## Install a SQL server on your machine.
 e.g. https://www.sqlshack.com/how-to-install-postgresql-on-windows/
+## Install this package.
 ```
 python setup.py develop
 ```
