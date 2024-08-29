@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Aug 28 17:16:15 2024
-
 @author: timcr
 """
 from table_schema import Symbols, MarketHours, ingest_all_data, Base
