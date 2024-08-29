@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Aug 28 16:02:24 2024
-
 @author: timcr
 """
 from sqlalchemy import create_engine
