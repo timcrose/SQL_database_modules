@@ -13,3 +13,4 @@ python setup.py develop
 ## Make a copy and update the configuration text file sql.conf with values for your database.
 ## Make a copy and edit table_schema.py to write the schema for your database tables.
 ## See example_usage.py for example usage.
+## Install my python_utils package (available on my GitHub) prior to use.
