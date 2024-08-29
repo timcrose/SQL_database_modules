@@ -1,8 +1,8 @@
 """
 @author: timcr
 """
-from table_schema import Symbols, MarketHours, ingest_all_data, Base
-from database_manager import query_db, drop_tables, create_tables
+from SQL_database_modules.table_schema import Symbols, MarketHours, ingest_all_data, Base
+from SQL_database_modules.database_manager import query_db, drop_tables, create_tables
 import datetime
 from sqlalchemy import and_
 
