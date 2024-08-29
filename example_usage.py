@@ -77,6 +77,7 @@ def example_drop_tables():
     
     
 if __name__ == '__main__':
+    # sql.conf must be in the directory you run this script from
     example_create_tables()
     example_ingest_all_data()
     example_query()
