@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Aug 28 16:39:01 2024
-
 @author: timcr
 """
 from sqlalchemy import inspect
