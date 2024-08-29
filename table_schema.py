@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Aug 28 16:03:13 2024
-
 @author: timcr
 """
 from sqlalchemy import ForeignKey, Column, Integer, Float, String, DateTime
